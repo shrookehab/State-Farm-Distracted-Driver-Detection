@@ -48,6 +48,6 @@ State Farm hopes to improve these alarming statistics, and better insure their c
 
 * [Abdelrahman Amgad](https://github.com/AbdellrahmanAmgad)
 * [Noha Ahed](https://github.com/nohaahed)
-* [Sherif Ahmed]()
+* [Sherif Ahmed](https://github.com/SkyGuy312)
 * [Shrook Ehab](https://github.com/shrookehab)  
 * [Yasser Hawass](https://github.com/YasserHawass)
